@@ -5,11 +5,11 @@
  *
  * Description: A C program that prints with printf function.
  *
- * Return: Always 0 (Sucess)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
-Return (0);
+return (0);
 }
